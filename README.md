@@ -12,3 +12,12 @@ scraper
 └── ...
 └── ...
 ```
+```
+local     all        postgres           peer
+```
+```
+local     all        postgres           trust
+```
+```
+local     all        postgres           md5
+```

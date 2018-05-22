@@ -1,21 +1,14 @@
 # REV_HMI
 instrument program for rev GETZ and LOTUS
 ```
-my-app
-├── README.md
-├── node_modules
-├── package.json
-├── .gitignore
-├── public
-│   └── favicon.ico
-│   └── index.html
-│   └── manifest.json
-└── src
-    └── App.css
-    └── App.js
-    └── App.test.js
-    └── index.css
-    └── index.js
-    └── logo.svg
-    └── registerServiceWorker.js
+scraper
+├── data/CRsite
+│   └── geosvg-attribute-maps
+│   └── swf-indoor-maps
+│   └── xml-attribute-data
+│   └── xml-attribute-maps
+├── index.js
+├── xmlConverter.py
+└── ...
+└── ...
 ```

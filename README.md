@@ -26,3 +26,6 @@ postgress=# Create database ezone
 postgress=# ALTER USER postgres with password 'yourpassword'
 postgress=# \q
 ```
+```
+git clone https://github.com/xanderle/ezone.git
+```

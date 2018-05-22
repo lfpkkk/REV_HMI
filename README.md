@@ -21,3 +21,8 @@ local     all        postgres           trust
 ```
 local     all        postgres           md5
 ```
+```
+postgress=# Create database ezone
+postgress=# ALTER USER postgres with password 'yourpassword'
+postgress=# \q
+```
